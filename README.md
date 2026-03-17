@@ -58,7 +58,8 @@ Todas as implementações devem seguir obrigatoriamente:
   <summary><strong>📤 Como entregar</strong></summary><br />
 
 - A lista deve ser desenvolvida individualmente
-- Você deverá criar uma branch no repositório
+- Você deverá fazer um fork desse repositório
+- Você deverá criar uma branch no seu fork desse repositório
 - A entrega será feita via **Pull Request (PR)**
 - O link do seu repositório deve ser disponibilizado como resposta na *thread* da lista de exercícios no classroom da disciplina
 
