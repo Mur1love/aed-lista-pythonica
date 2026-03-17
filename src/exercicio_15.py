@@ -8,4 +8,7 @@ def sum_numbers(n: int) -> int:
     Returns:
         int: soma total
     """
-    pass
+    total = 0
+    for number in range(1, n + 1):
+        total += number
+    return total

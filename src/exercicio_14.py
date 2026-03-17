@@ -8,4 +8,7 @@ def generate_numbers(n: int) -> list[int]:
     Returns:
         list[int]: lista [1, 2, ..., n]
     """
-    pass
+    numbers = []
+    for value in range(1, n + 1):
+        numbers.append(value)
+    return numbers
